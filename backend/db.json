@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server-2",
+      "author": "typicode-2"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo": [
+    {
+      "id": 1,
+      "title": "task-1",
+      "status": false
+    },
+    {
+      "title": "task-2",
+      "id": "1663335807371task-2",
+      "status": false
+    },
+    {
+      "title": "task-2",
+      "id": "1663335825194task-2",
+      "status": false
+    },
+    {
+      "title": "task-2",
+      "id": "1663335825666task-2",
+      "status": false
+    }
+  ]
+}
